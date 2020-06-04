@@ -1,2 +1,2 @@
-# case_control_final_assginment
-환자대조군연구 수업 기말과제
+# case_control_HIRA DB
+건강보험 데이터를 이용한 환자-대조군연구
